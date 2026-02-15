@@ -1,0 +1,25 @@
+Book[name=Data Mining Handbook,authors={Author[name=Robert Nisbet,email=,gender=u]},price=27.95,qty=10]
+Book[name=Mastering COBOL,authors={Author[name=Roger Hutty,email=,gender=u]},price=4.95,qty=10]
+Book[name=Intro to COBOL,authors={Author[name=Paul Murrill,email=,gender=u]},price=7.35,qty=4]
+Book[name=Making Software,authors={Author[name=Andy Oram,email=,gender=u]},price=35.00,qty=5]
+Book[name=OO Design Using Java,authors={Author[name=James Nino,email=,gender=u],Author[name=Frederick Hosch,email=,gender=u]},price=30.00,qty=6]
+Book[name=Objects First with Java,authors={Author[name=David Barnes,email=,gender=u],Author[name=Michael Kolling,email=,gender=u]},price=29.50,qty=4]
+| Data Mining Handbook    | Robert Nisbet                |  27.95 | 010 |
+| Mastering COBOL         | Roger Hutty                  |   4.95 | 010 |
+| Intro to COBOL          | Paul Murrill                 |   7.35 | 004 |
+| Making Software         | Andy Oram                    |  35.00 | 005 |
+| OO Design Using Java    | James Nino,Frederick Hosch   |  30.00 | 006 |
+| Objects First with Java | David Barnes,Michael Kolling |  29.50 | 004 |
+Search for term(s) 'making software' in title...
+| Data Mining Handbook    | Robert Nisbet                |  27.95 | 010 |
+| Mastering COBOL         | Roger Hutty                  |   4.95 | 010 |
+| Intro to COBOL          | Paul Murrill                 |   7.35 | 004 |
+| Making Software         | Andy Oram                    |  35.00 | 004 |
+| OO Design Using Java    | James Nino,Frederick Hosch   |  30.00 | 006 |
+| Objects First with Java | David Barnes,Michael Kolling |  29.50 | 004 |
+Removing all books with term 'cobol' in title...
+Removed 2 books
+| Data Mining Handbook    | Robert Nisbet                |  27.95 | 010 |
+| Making Software         | Andy Oram                    |  35.00 | 004 |
+| OO Design Using Java    | James Nino,Frederick Hosch   |  30.00 | 006 |
+| Objects First with Java | David Barnes,Michael Kolling |  29.50 | 004 |
